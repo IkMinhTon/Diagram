@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T02:50:46.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="4Em2fVy3r_DY7-hAHhGU" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T02:51:17.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="ojPRdL6am8mmomqN7QTR" version="16.1.2" type="github">
   <diagram id="f0VDpKiODOm3DiscRv4v" name="Page-1">
     <mxGraphModel dx="2231" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EE13flXiu2RIdiRuRqfd-25" value="Tìm Bác sĩ Riêng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EE13flXiu2RIdiRuRqfd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EE13flXiu2RIdiRuRqfd-26" target="EE13flXiu2RIdiRuRqfd-1">
           <mxGeometry relative="1" as="geometry">
