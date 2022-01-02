@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T03:05:42.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="JcxbHa2mzgGrJ43Lb9rQ" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T03:07:39.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="rtKbWs8gpRPPbq6qY7HE" version="16.1.2" type="github">
   <diagram id="f0VDpKiODOm3DiscRv4v" name="Page-1">
     <mxGraphModel dx="2231" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
           <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EE13flXiu2RIdiRuRqfd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EE13flXiu2RIdiRuRqfd-4" target="EE13flXiu2RIdiRuRqfd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EE13flXiu2RIdiRuRqfd-4" target="EE13flXiu2RIdiRuRqfd-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EE13flXiu2RIdiRuRqfd-4" value="Lịch sử giao dịch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -321,6 +324,24 @@
         </mxCell>
         <mxCell id="EE13flXiu2RIdiRuRqfd-76" value="Form Gửi Toa Thuốc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="510" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EE13flXiu2RIdiRuRqfd-80" target="EE13flXiu2RIdiRuRqfd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-80" value="Lịch Sử Đơn Thuốc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-82" value="Đơn Thuốc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-84" value="Trạng Thái" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-85" value="Hình ảnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EE13flXiu2RIdiRuRqfd-86" value="Đơn Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-100" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
